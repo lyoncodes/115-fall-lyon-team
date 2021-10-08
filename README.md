@@ -4,7 +4,7 @@ As a group project for IT 115 we have made this wiki about Artificial Intelligen
 
 ## Group members: 
 - Tegan 
-- E. Brink
+- [E. Brink](https://www.linkedin.com/in/eebrink/) brinkbrink@gmail.com
 - Zhongyuan Huang
 - Michael Lyon
 - Emily Brune
