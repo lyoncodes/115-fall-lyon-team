@@ -7,5 +7,5 @@ As a group project for IT 115 we have made this wiki about Artificial Intelligen
 - [E. Brink](https://www.linkedin.com/in/eebrink/) - brinkbrink@gmail.com
 - Zhongyuan Huang
 - Michael Lyon
-- Emily Brune
+- [Emily Brune](https://www.linkedin.com/in/emilybrune/) - ebrune@gmail.com
 
