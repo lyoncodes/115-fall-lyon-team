@@ -6,6 +6,6 @@ As a group project for IT 115 we have made this wiki about Artificial Intelligen
 - Tegan 
 - [E. Brink](https://www.linkedin.com/in/eebrink/) - brinkbrink@gmail.com
 - Zhongyuan Huang
-- Michael Lyon
+- [Michael Lyon](https://www.linkedin.com/in/lyoncodes/) - lyoncodes@gmail.com
 - [Emily Brune](https://www.linkedin.com/in/emilybrune/) - ebrune@gmail.com
 
