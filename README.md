@@ -1,6 +1,6 @@
 # Group 1 IT 115 - 2 PM 
 
-As a group project for IT 115 we have made this wiki about Artificial Intelligence (AI).
+As a group project for IT 115 we have made this wiki about Artificial Intelligence (AI). The table of contents can be found [https://github.com/lyoncodes/115-fall-lyon-team/wiki/Table-of-Contents](here).
 
 ## Group members: 
 - Tegan 
